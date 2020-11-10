@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         appBar: AppBar(
           title: Text("Employee App"),
-          backgroundColor: Colors.pink,
+          backgroundColor: Colors.green,
         ),
         body: Container(
           padding: EdgeInsets.all(10.0),
